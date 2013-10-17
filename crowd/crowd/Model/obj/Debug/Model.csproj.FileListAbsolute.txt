@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\crowd\crowd\Model\bin\Debug\Crowd.Model.dll
+C:\Users\Administrator\Desktop\crowd\crowd\Model\bin\Debug\Crowd.Model.pdb
+C:\Users\Administrator\Desktop\crowd\crowd\Model\bin\Debug\Crowd.DBUtility.dll
+C:\Users\Administrator\Desktop\crowd\crowd\Model\bin\Debug\System.Data.SQLite.dll
+C:\Users\Administrator\Desktop\crowd\crowd\Model\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\crowd\crowd\Model\bin\Debug\Crowd.DBUtility.pdb
+C:\Users\Administrator\Desktop\crowd\crowd\Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\crowd\crowd\Model\obj\Debug\Crowd.Model.dll
+C:\Users\Administrator\Desktop\crowd\crowd\Model\obj\Debug\Crowd.Model.pdb

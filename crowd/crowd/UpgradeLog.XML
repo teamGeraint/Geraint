@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="crowd">
+</Property><Property Name="解决方案文件" Value="C:\Users\Administrator\Desktop\crowd\crowd\crowd.sln">
+</Property><Property Name="用户选项文件" Value="C:\Users\Administrator\Desktop\crowd\crowd\crowd.suo">
+</Property><Property Name="Date" Value="2013年10月17日">
+</Property><Property Name="Time" Value="13:57">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="crowd.sln" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\crowd.sln">
+</Event><Event ErrorLevel="0" Project="" Source="crowd.suo" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\crowd.suo">
+</Event><Event ErrorLevel="0" Project="BLL" Source="BLL\BLL.csproj" Description="项目文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\BLL\BLL.csproj">
+</Event><Event ErrorLevel="0" Project="BLL" Source="BLL\BLL.csproj.user" Description="项目用户文件成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\BLL\BLL.csproj.user">
+</Event><Event ErrorLevel="0" Project="BLL" Source="BLL\AssemblyInfo.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\BLL\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="BLL" Source="BLL\admin.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\BLL\admin.cs">
+</Event><Event ErrorLevel="0" Project="BLL" Source="BLL\collect.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\BLL\collect.cs">
+</Event><Event ErrorLevel="0" Project="BLL" Source="BLL\commentInfo.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\BLL\commentInfo.cs">
+</Event><Event ErrorLevel="0" Project="BLL" Source="BLL\DICT_interest.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\BLL\DICT_interest.cs">
+</Event><Event ErrorLevel="0" Project="BLL" Source="BLL\DICT_photoClass.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\BLL\DICT_photoClass.cs">
+</Event><Event ErrorLevel="0" Project="BLL" Source="BLL\DICT_report.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\BLL\DICT_report.cs">
+</Event><Event ErrorLevel="0" Project="BLL" Source="BLL\fans.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\BLL\fans.cs">
+</Event><Event ErrorLevel="0" Project="BLL" Source="BLL\image.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\BLL\image.cs">
+</Event><Event ErrorLevel="0" Project="BLL" Source="BLL\insterset.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\BLL\insterset.cs">
+</Event><Event ErrorLevel="0" Project="BLL" Source="BLL\messageInfo.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\BLL\messageInfo.cs">
+</Event><Event ErrorLevel="0" Project="BLL" Source="BLL\photo.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\BLL\photo.cs">
+</Event><Event ErrorLevel="0" Project="BLL" Source="BLL\publish.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\BLL\publish.cs">
+</Event><Event ErrorLevel="0" Project="BLL" Source="BLL\report.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\BLL\report.cs">
+</Event><Event ErrorLevel="0" Project="BLL" Source="BLL\user.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\BLL\user.cs">
+</Event><Event ErrorLevel="0" Project="BLL" Source="BLL\web.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\BLL\web.cs">
+</Event><Event ErrorLevel="0" Project="BLL" Source="BLL\zan.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\BLL\zan.cs">
+</Event><Event ErrorLevel="1" Project="BLL" Source="BLL\BLL.csproj" Description="您的项目以 .NET Framework 2.0 或 3.0 为目标。如果您的项目使用的程序集需要更新的 .NET Framework，则项目生成将失败。通过单击项目菜单上的“属性”，然后在“.NET Framework”下拉框中选择一个新版本，可以更改 .NET Framework 的版本。(在 Visual Basic 中，可在单击“高级编辑器选项...”按钮时显示的“编译”选项卡上找到此下拉框。)">
+</Event><Event ErrorLevel="0" Project="BLL" Source="BLL\BLL.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="BLL" Source="BLL\BLL.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\Model.csproj" Description="项目文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\Model\Model.csproj">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\Model.csproj.user" Description="项目用户文件成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\Model\Model.csproj.user">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\AssemblyInfo.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\Model\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\admin.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\Model\admin.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\collect.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\Model\collect.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\commentInfo.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\Model\commentInfo.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\DICT_interest.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\Model\DICT_interest.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\DICT_photoClass.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\Model\DICT_photoClass.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\DICT_report.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\Model\DICT_report.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\fans.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\Model\fans.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\image.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\Model\image.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\insterset.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\Model\insterset.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\messageInfo.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\Model\messageInfo.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\photo.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\Model\photo.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\publish.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\Model\publish.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\report.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\Model\report.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\user.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\Model\user.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\web.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\Model\web.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\zan.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\Model\zan.cs">
+</Event><Event ErrorLevel="1" Project="Model" Source="Model\Model.csproj" Description="您的项目以 .NET Framework 2.0 或 3.0 为目标。如果您的项目使用的程序集需要更新的 .NET Framework，则项目生成将失败。通过单击项目菜单上的“属性”，然后在“.NET Framework”下拉框中选择一个新版本，可以更改 .NET Framework 的版本。(在 Visual Basic 中，可在单击“高级编辑器选项...”按钮时显示的“编译”选项卡上找到此下拉框。)">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\Model.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="Model" Source="Model\Model.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\DAL.csproj" Description="项目文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\DAL\DAL.csproj">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\DAL.csproj.user" Description="项目用户文件成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\DAL\DAL.csproj.user">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\AssemblyInfo.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\DAL\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\admin.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\DAL\admin.cs">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\collect.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\DAL\collect.cs">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\commentInfo.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\DAL\commentInfo.cs">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\DICT_interest.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\DAL\DICT_interest.cs">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\DICT_photoClass.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\DAL\DICT_photoClass.cs">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\DICT_report.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\DAL\DICT_report.cs">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\fans.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\DAL\fans.cs">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\image.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\DAL\image.cs">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\insterset.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\DAL\insterset.cs">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\messageInfo.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\DAL\messageInfo.cs">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\photo.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\DAL\photo.cs">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\publish.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\DAL\publish.cs">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\report.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\DAL\report.cs">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\user.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\DAL\user.cs">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\web.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\DAL\web.cs">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\zan.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\DAL\zan.cs">
+</Event><Event ErrorLevel="1" Project="DAL" Source="DAL\DAL.csproj" Description="您的项目以 .NET Framework 2.0 或 3.0 为目标。如果您的项目使用的程序集需要更新的 .NET Framework，则项目生成将失败。通过单击项目菜单上的“属性”，然后在“.NET Framework”下拉框中选择一个新版本，可以更改 .NET Framework 的版本。(在 Visual Basic 中，可在单击“高级编辑器选项...”按钮时显示的“编译”选项卡上找到此下拉框。)">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\DAL.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="DAL" Source="DAL\DAL.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Web.csproj" Description="项目文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\Web\Web.csproj">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Web.csproj.user" Description="项目用户文件成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\Web\Web.csproj.user">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Controls\CheckRight.ascx.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\Web\Controls\CheckRight.ascx.cs">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Controls\CheckRight.ascx.designer.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\Web\Controls\CheckRight.ascx.designer.cs">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Controls\CopyRight.ascx.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\Web\Controls\CopyRight.ascx.cs">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Controls\CopyRight.ascx.designer.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\Web\Controls\CopyRight.ascx.designer.cs">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Default.aspx.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\Web\Default.aspx.cs">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Default.aspx.designer.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\Web\Default.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Global.asax.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\Web\Global.asax.cs">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\MasterPage.master.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\Web\MasterPage.master.cs">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\MasterPage.master.designer.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\Web\MasterPage.master.designer.cs">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Properties\AssemblyInfo.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\Web\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Controls\checkright.ascx" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\Web\Controls\checkright.ascx">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Controls\copyright.ascx" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\Web\Controls\copyright.ascx">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Global.asax" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\Web\Global.asax">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Images\top1.gif" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\Web\Images\top1.gif">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Web.config" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\Web\Web.config">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Default.aspx" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\Web\Default.aspx">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Style.css" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\Web\Style.css">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\MasterPage.master" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\Web\MasterPage.master">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Controls\CheckRight.ascx.resx" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\Web\Controls\CheckRight.ascx.resx">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Controls\CopyRight.ascx.resx" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\Web\Controls\CopyRight.ascx.resx">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Global.asax.resx" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\Web\Global.asax.resx">
+</Event><Event ErrorLevel="1" Project="Web" Source="Web\Web.csproj" Description="您的项目以 .NET Framework 2.0 或 3.0 为目标。如果您的项目使用的程序集需要更新的 .NET Framework，则项目生成将失败。通过单击项目菜单上的“属性”，然后在“.NET Framework”下拉框中选择一个新版本，可以更改 .NET Framework 的版本。(在 Visual Basic 中，可在单击“高级编辑器选项...”按钮时显示的“编译”选项卡上找到此下拉框。)">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Web.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="Web" Source="Web\Web.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DBUtility" Source="DBUtility\DBUtility.csproj" Description="项目文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\DBUtility\DBUtility.csproj">
+</Event><Event ErrorLevel="0" Project="DBUtility" Source="DBUtility\DBUtility.csproj.user" Description="项目用户文件成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\DBUtility\DBUtility.csproj.user">
+</Event><Event ErrorLevel="0" Project="DBUtility" Source="DBUtility\DbHelperSQLite.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\DBUtility\DbHelperSQLite.cs">
+</Event><Event ErrorLevel="0" Project="DBUtility" Source="DBUtility\AssemblyInfo.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\DBUtility\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="DBUtility" Source="DBUtility\CommandInfo.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\DBUtility\CommandInfo.cs">
+</Event><Event ErrorLevel="0" Project="DBUtility" Source="DBUtility\DbHelperMySQL.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\DBUtility\DbHelperMySQL.cs">
+</Event><Event ErrorLevel="0" Project="DBUtility" Source="DBUtility\DbHelperOleDb.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\DBUtility\DbHelperOleDb.cs">
+</Event><Event ErrorLevel="0" Project="DBUtility" Source="DBUtility\DbHelperOra.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\DBUtility\DbHelperOra.cs">
+</Event><Event ErrorLevel="0" Project="DBUtility" Source="DBUtility\DbHelperSQL.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\DBUtility\DbHelperSQL.cs">
+</Event><Event ErrorLevel="0" Project="DBUtility" Source="DBUtility\DESEncrypt.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\DBUtility\DESEncrypt.cs">
+</Event><Event ErrorLevel="0" Project="DBUtility" Source="DBUtility\OracleHelper.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\DBUtility\OracleHelper.cs">
+</Event><Event ErrorLevel="0" Project="DBUtility" Source="DBUtility\PubConstant.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\DBUtility\PubConstant.cs">
+</Event><Event ErrorLevel="0" Project="DBUtility" Source="DBUtility\SQLHelper.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\DBUtility\SQLHelper.cs">
+</Event><Event ErrorLevel="0" Project="DBUtility" Source="DBUtility\DbHelperSQLP.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\crowd\crowd\Backup\DBUtility\DbHelperSQLP.cs">
+</Event><Event ErrorLevel="1" Project="DBUtility" Source="DBUtility\DBUtility.csproj" Description="您的项目以 .NET Framework 2.0 或 3.0 为目标。如果您的项目使用的程序集需要更新的 .NET Framework，则项目生成将失败。通过单击项目菜单上的“属性”，然后在“.NET Framework”下拉框中选择一个新版本，可以更改 .NET Framework 的版本。(在 Visual Basic 中，可在单击“高级编辑器选项...”按钮时显示的“编译”选项卡上找到此下拉框。)">
+</Event><Event ErrorLevel="0" Project="DBUtility" Source="DBUtility\DBUtility.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="DBUtility" Source="DBUtility\DBUtility.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="crowd.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="crowd.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BLL" Source="BLL\BLL.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\Model.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\DAL.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="Web" Source="Web\Web.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="DBUtility" Source="DBUtility\DBUtility.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>
