@@ -56,6 +56,9 @@
     <Content Include="Account\Register.aspx" />
     <Content Include="Collect.aspx" />
     <Content Include="Friend.aspx" />
+    <Content Include="images\Crowd\body.png" />
+    <Content Include="images\Crowd\icon4-24.png" />
+    <Content Include="images\Crowd\logoa.png" />
     <Content Include="images\index\btn.png" />
     <Content Include="images\index\crowdlogo.png" />
     <Content Include="images\index\loginblock.jpg" />

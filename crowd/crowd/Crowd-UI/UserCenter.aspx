@@ -8,10 +8,26 @@
         <div id="left">
             <div id="publish">
                 <div id="head">
-                    <img src="#" alt="Alternate Text" />
+                    <asp:Image ID="headimage" runat="server"/>
                 </div>
+                <ul>
+                    <li>
+                        <span></span>
+                    </li>
+                    <li>
+                        <span></span>
+                    </li>
+                    <li>
+                        <span></span>
+                    </li>
+                    <li>
+                        <span></span>
+                    </li>
+                </ul>
             </div>
-
+            <div>
+                
+            </div>
         </div>
         <div id="right"></div>
    </div>
