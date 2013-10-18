@@ -71,7 +71,6 @@
     <Content Include="Styles\Friend.css" />
     <Content Include="Styles\Index.css" />
     <Content Include="Styles\Interest.css" />
-    <Content Include="Styles\Site.css" />
     <Content Include="Global.asax" />
     <Content Include="Styles\UserCenter.css" />
     <Content Include="Styles\UserHome.css" />
