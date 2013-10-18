@@ -5,10 +5,9 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <div id="main">
-        
-   
-   
-   
-   
+        <div id="left">
+            <div></div>
+        </div>
+        <div id="right"></div>
    </div>
 </asp:Content>

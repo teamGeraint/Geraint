@@ -5,3 +5,10 @@ C:\Users\Administrator\Desktop\crowd\crowd\DBUtility\bin\Debug\System.Data.SQLit
 C:\Users\Administrator\Desktop\crowd\crowd\DBUtility\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\Administrator\Desktop\crowd\crowd\DBUtility\obj\Debug\Crowd.DBUtility.dll
 C:\Users\Administrator\Desktop\crowd\crowd\DBUtility\obj\Debug\Crowd.DBUtility.pdb
+C:\Users\Administrator\Documents\GitHub\Geraint\crowd\crowd\DBUtility\bin\Debug\Crowd.DBUtility.dll
+C:\Users\Administrator\Documents\GitHub\Geraint\crowd\crowd\DBUtility\bin\Debug\Crowd.DBUtility.pdb
+C:\Users\Administrator\Documents\GitHub\Geraint\crowd\crowd\DBUtility\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Documents\GitHub\Geraint\crowd\crowd\DBUtility\bin\Debug\System.Data.SQLite.DLL
+C:\Users\Administrator\Documents\GitHub\Geraint\crowd\crowd\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\Geraint\crowd\crowd\DBUtility\obj\Debug\Crowd.DBUtility.dll
+C:\Users\Administrator\Documents\GitHub\Geraint\crowd\crowd\DBUtility\obj\Debug\Crowd.DBUtility.pdb
