@@ -56,6 +56,13 @@
     <Content Include="Account\Register.aspx" />
     <Content Include="Collect.aspx" />
     <Content Include="Friend.aspx" />
+    <Content Include="images\index\btn.png" />
+    <Content Include="images\index\crowdlogo.png" />
+    <Content Include="images\index\loginblock.jpg" />
+    <Content Include="images\index\mima.jpg" />
+    <Content Include="images\index\querenmima.jpg" />
+    <Content Include="images\index\youxiang.jpg" />
+    <Content Include="images\index\zhanghao.jpg" />
     <Content Include="Index.aspx" />
     <Content Include="Interest.aspx" />
     <Content Include="Scripts\Collect.js" />
@@ -64,16 +71,19 @@
     <Content Include="Scripts\Index.js" />
     <Content Include="Scripts\Interest.js" />
     <Content Include="Scripts\jquery-1.9.1.min.js" />
+    <Content Include="Scripts\SearchFriend.js" />
     <Content Include="Scripts\UserCenter.js" />
     <Content Include="Scripts\UserHome.js" />
     <Content Include="Scripts\UserInfo.js" />
     <Content Include="Scripts\UserPhoto.js" />
+    <Content Include="SearchFriend.aspx" />
     <Content Include="Styles\Collect.css" />
     <Content Include="Styles\Crowd.css" />
     <Content Include="Styles\Friend.css" />
     <Content Include="Styles\Index.css" />
     <Content Include="Styles\Interest.css" />
     <Content Include="Global.asax" />
+    <Content Include="Styles\SearchFriend.css" />
     <Content Include="Styles\UserCenter.css" />
     <Content Include="Styles\UserHome.css" />
     <Content Include="Styles\UserInfo.css" />
@@ -163,6 +173,13 @@
       <DependentUpon>Interest.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SearchFriend.aspx.cs">
+      <DependentUpon>SearchFriend.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SearchFriend.aspx.designer.cs">
+      <DependentUpon>SearchFriend.aspx</DependentUpon>
+    </Compile>
     <Compile Include="UserCenter.aspx.cs">
       <DependentUpon>UserCenter.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -194,7 +211,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="images\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Account\Web.config" />

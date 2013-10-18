@@ -6,7 +6,12 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <div id="main">
         <div id="left">
-            <div></div>
+            <div id="publish">
+                <div id="head">
+                    <img src="#" alt="Alternate Text" />
+                </div>
+            </div>
+
         </div>
         <div id="right"></div>
    </div>
