@@ -7,28 +7,44 @@
     <div id="main">
         <div id="left">
             <div id="publish">
-                <div id="head">
-                    <asp:Image ID="headimage" runat="server"/>
+                <div class="head">
+                    <img src="#" alt="Alternate Text" />
                 </div>
-                <ul>
+                <ul id="publishul">
                     <li>
-                        <span></span>
+                        <span id="pbtxt"></span>
                     </li>
                     <li>
-                        <span></span>
+                        <span id="pbimg"></span>
                     </li>
                     <li>
-                        <span></span>
+                        <span id="pbmusic"></span>
                     </li>
                     <li>
-                        <span></span>
+                        <span id="pbvideo"></span>
                     </li>
                 </ul>
             </div>
-            <div>
-                
+            <div class="pbcon">
+                <div class="pbconl">
+                    <a href="#">
+                        <img class="fdhead" src="#" alt="Alternate Text" />
+                    </a>
+                    <ul class="fdheadmenu">
+                        
+                    </ul>
+                </div>
+                <div class="pbconr">
+                    <div class="pbconrhd">
+                        <a href="#"></a>
+                    </div>
+                    <div class="pbconrcnt">
+                    </div>
+                    <div class="pbconrbtm">
+                    </div>
+                </div>
             </div>
         </div>
-        <div id="right"></div>
+        <div class="right"></div>
    </div>
 </asp:Content>
