@@ -69,6 +69,17 @@
     <Content Include="images\index\querenmima.jpg" />
     <Content Include="images\index\youxiang.jpg" />
     <Content Include="images\index\zhanghao.jpg" />
+    <Content Include="images\Interest\1.jpg" />
+    <Content Include="images\Interest\10.jpg" />
+    <Content Include="images\Interest\11.png" />
+    <Content Include="images\Interest\2.jpg" />
+    <Content Include="images\Interest\3.png" />
+    <Content Include="images\Interest\4.jpg" />
+    <Content Include="images\Interest\5.jpg" />
+    <Content Include="images\Interest\6.jpg" />
+    <Content Include="images\Interest\7.jpg" />
+    <Content Include="images\Interest\8.png" />
+    <Content Include="images\Interest\9.jpg" />
     <Content Include="Index.aspx" />
     <Content Include="Interest.aspx" />
     <Content Include="Scripts\Collect.js" />
@@ -94,6 +105,7 @@
     <Content Include="Styles\UserHome.css" />
     <Content Include="Styles\UserInfo.css" />
     <Content Include="Styles\UserPhoto.css" />
+    <Content Include="test.aspx" />
     <Content Include="UserCenter.aspx" />
     <Content Include="UserHome.aspx" />
     <Content Include="UserInfo.aspx" />
@@ -185,6 +197,13 @@
     </Compile>
     <Compile Include="SearchFriend.aspx.designer.cs">
       <DependentUpon>SearchFriend.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="test.aspx.cs">
+      <DependentUpon>test.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="test.aspx.designer.cs">
+      <DependentUpon>test.aspx</DependentUpon>
     </Compile>
     <Compile Include="UserCenter.aspx.cs">
       <DependentUpon>UserCenter.aspx</DependentUpon>

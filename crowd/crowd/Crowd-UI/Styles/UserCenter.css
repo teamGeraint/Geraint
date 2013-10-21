@@ -9,8 +9,8 @@
 #publish{width: 100%;height: 110px;}
 #head{width: 110px;height: 110px;float: left;}
 #publishul{width: 560px;height: 110px;float: left;}
-#publishul li{width: 140px;height: 110px;float: left;}
-
+#publishul li{width: 140px;height: 110px;float: left;background-image: url("../images/UserCenter/publishbg.png");}
+#pbtxt{}
 
 
 .pbcon{width: 100%;height: auto;overflow: hidden;}
