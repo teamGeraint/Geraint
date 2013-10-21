@@ -9,6 +9,7 @@
             <div id="publish">
                 <div class="head">
                     <img src="#" alt="Alternate Text" />
+                    <asp:Button ID="Button1" runat="server" Text="Button" onclick="Button1_Click" />
                 </div>
                 <ul id="publishul">
                     <li>
@@ -28,11 +29,12 @@
             <div class="pbcon">
                 <div class="pbconl">
                     <a href="#">
-                        <img class="fdhead" src="#" alt="Alternate Text" />
+                        <img class="fdhead" src="#" alt="" />
                     </a>
                     <ul class="fdheadmenu">
                         
                     </ul>
+                    
                 </div>
                 <div class="pbconr">
                     <div class="pbconrhd">
@@ -45,6 +47,20 @@
                 </div>
             </div>
         </div>
-        <div class="right"></div>
+        <div class="right">
+            <div id="user">
+                <div id="userinfo">
+                    <div id="userhead">
+                        <img src="#" alt="" />
+                    </div>
+                    <div id="username">
+                        <asp:Label ID="txtusername" Text="1112" runat="server" />
+                      
+                    </div>
+                </div>
+                <div id="userfans">
+                </div>
+            </div>
+        </div>
    </div>
 </asp:Content>
