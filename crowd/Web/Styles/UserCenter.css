@@ -7,11 +7,14 @@
 
 
 #publish{width: 100%;height: 110px;}
-#head{width: 110px;height: 110px;float: left;}
+.uhead{width: 110px;height: 110px;float: left;display: block;}
 #publishul{width: 560px;height: 110px;float: left;}
-#publishul li{width: 140px;height: 110px;float: left;background-image: url("../images/UserCenter/publishbg.png");}
-#pbtxt{}
-
+#publishul li{width: 140px;height: 110px;float: left;}
+#publishul li span{width: 100%;height: 100%;display: block;}
+#pbtxt{background-position: -112px 0;background-image: url("../images/UserCenter/publishbg.png");}
+#pbimg{background-position: -252px 0;background-image: url("../images/UserCenter/publishbg.png");}
+#pbmusic{background-position: -392px 0;background-image: url("../images/UserCenter/publishbg.png");}
+#pbvideo{background-position: -532px 0;background-image: url("../images/UserCenter/publishbg.png");}
 
 .pbcon{width: 100%;height: auto;overflow: hidden;}
 .pbconl{width: 68px;height: 68px;float: left;position: relative;}

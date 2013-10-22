@@ -116,7 +116,7 @@
     <Compile Include="photo.cs" />
     <Compile Include="publish.cs" />
     <Compile Include="report.cs" />
-    <Compile Include="user.cs" />
+    <Compile Include="userinfo.cs" />
     <Compile Include="web.cs" />
     <Compile Include="zan.cs" />
   </ItemGroup>

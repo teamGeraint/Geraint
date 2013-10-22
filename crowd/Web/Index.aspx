@@ -15,6 +15,7 @@
        <script type="text/javascript"  src="Scripts/Index.js"></script>
 </head>
 <body>
+    <form id="form1" runat="server">
 	<div id="wapper">
        <div id="header">
            <span id="headerpic">
@@ -32,15 +33,18 @@
                            <div class="loginCrowd">
                                <div class="idInputLine">
                                   <span class="idPic"></span>
-                                  <input class="idInput" type="text"/>
+                                  <input id="loginidInput1" class="idInput" type="text" runat="server"/>
                                </div>
                                <div class="pwdInputLine">
                                   <span class="pwdPic"></span>
-                                  <input class="pwdInput" type="text"/>
+                                  <input id="loginpwdInput1" class="pwdInput" type="text" runat="server"/>
                                </div>
                                <div class="loginFormbtn">
-                                      <a class="loginbtn" href="#">登 录</a>
+                                   <asp:Button class="loginbtn" Text="登 录" runat="server" 
+                                       onclick="loginbtn_Click" />
+                                  
                                </div>   
+                               <asp:Label ID="loginError" runat="server" Text=""></asp:Label>
                            </div>
                    </div>
            </div>
@@ -53,22 +57,23 @@
                            <div class="loginCrowd">
                                <div class="idInputLine">
                                   <span class="idPic"></span>
-                                  <input class="idInput" type="text"/>
+                                  <input id="regidInput" class="idInput" type="text" runat="server"/>
                                </div>
                                <div class="pwdInputLine">
                                   <span class="pwdPic"></span>
-                                  <input class="pwdInput" type="text"/>
+                                  <input id="regpwdInput" class="pwdInput" type="text" runat="server"/>
                                </div>
                                <div class="pwdInputLine">
                                   <span class="pwdPic"></span>
-                                  <input id="pwdInput1" type="text"/>
+                                  <input id="regpwdInput2" type="text" runat="server"/>
                                </div>
                                <div class="idInputLine">
                                   <span class="idPic"></span>
-                                  <input id="idInput1" type="text"/>
+                                  <input id="regemailInput"  type="text" runat="server"/>
                                </div>
                                <div class="loginFormbtn">
-                                      <a class="loginbtn" href="#">注册</a>
+                                     <asp:Button ID="btnreg" class="loginbtn" Text="注 册" runat="server" 
+                                       onclick="regbtn_Click" />
                                </div>   
                            </div>
                    </div>
@@ -76,5 +81,6 @@
 
        </div>
 	</div>
+    </form>
 </body>
 </html>

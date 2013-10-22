@@ -7,9 +7,7 @@
     <div id="main">
         <div id="left">
             <div id="publish">
-                <div class="head">
-                    <img src="#" alt="Alternate Text" />
-                    <asp:Button ID="Button1" runat="server" Text="Button" onclick="Button1_Click" />
+                <div id="userhead" class="uhead" runat="server">
                 </div>
                 <ul id="publishul">
                     <li>
@@ -50,11 +48,11 @@
         <div class="right">
             <div id="user">
                 <div id="userinfo">
-                    <div id="userhead">
+                    <div id="ushead">
                         <img src="#" alt="" />
                     </div>
                     <div id="username">
-                        <asp:Label ID="txtusername" Text="1112" runat="server" />
+                        <asp:Label ID="txtusername" Text="" runat="server" />
                       
                     </div>
                 </div>

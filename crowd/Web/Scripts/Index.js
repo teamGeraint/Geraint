@@ -5,11 +5,11 @@
 });
 
 function initEleEvents() {
-    $(".login").mouseover(function () {
+    $(".login").click(function () {
         $("#loginBlock1").hide();
         $("#loginBlock").show();
     })
-    $(".register").mouseover(function () {
+    $(".register").click(function () {
         $("#loginBlock").hide();
         $("#loginBlock1").show();
     })
@@ -22,40 +22,40 @@ function initEleEvents() {
 
     $(".idInput").keyup(function (e) {
 
-        var val = $(".idInput").val();
+        var val = $(this).val();
         if (val == "") {
 
-            $(this).css("background-image", 'url("css/images/zhanghao.jpg")');
+            $(this).css("background-image", 'url("../images/Index/zhanghao.jpg")');
         }
         else { $(this).css("background-image", "none"); };
 
     });
-    $("#idInput1").keyup(function (e) {
+    $("#regemailInput").keyup(function (e) {
 
-        var val = $("#idInput1").val();
+        var val = $(this).val();
         if (val == "") {
 
-            $(this).css("background-image", 'url("css/images/youxiang.jpg")');
+            $(this).css("background-image", 'url("../images/Index/youxiang.jpg")');
         }
         else { $(this).css("background-image", "none"); };
 
     });
     $(".pwdInput").keyup(function (e) {
 
-        var val = $(".pwdInput").val();
+        var val = $(this).val();
         if (val == "") {
 
-            $(this).css("background-image", 'url("css/images/mima.jpg")');
+            $(this).css("background-image", 'url("../images/Index/mima.jpg")');
         }
         else { $(this).css("background-image", "none"); };
 
     });
 
-    $("#pwdInput1").keyup(function () {
-        var val = $("#pwdInput1").val();
+    $("#regpwdInput2").keyup(function () {
+        var val = $("#regpwdInput2").val();
         if (val == "") {
 
-            $(this).css("background-image", 'url("css/images/querenmima.jpg")');
+            $(this).css("background-image", 'url("../images/Index/querenmima.jpg")');
         }
         else { $(this).css("background-image", "none"); };
 
@@ -67,9 +67,8 @@ function checktext() {
     $("#idInput1").val("");
     $(".pwdInput").val("");
     $("#pwdInput1").val("");
-
-    $(".idInput").css("background-image", 'url("css/images/zhanghao.jpg")');
-    $("#idInput1").css("background-image", 'url("css/images/youxiang.jpg")');
-    $(".pwdInput").css("background-image", 'url("css/images/mima.jpg")');
-    $("#pwdInput1").css("background-image", 'url("css/images/querenmima.jpg")');
+    $(".idInput").css("background-image", 'url("../images/Index/zhanghao.jpg")');
+    $("#regemailInput").css("background-image", 'url("../images/Index/youxiang.jpg")');
+    $(".pwdInput").css("background-image", 'url("../images/Index/mima.jpg")');
+    $("#regpwdInput2").css("background-image", 'url("../images/Index/querenmima.jpg")');
 }
