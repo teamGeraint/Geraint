@@ -1,0 +1,44 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Crowd.master.cs" Inherits="Crowd.web.Crowd" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <title></title>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8"></meta>
+     <link href="Styles/Crowd.css" rel="stylesheet" type="text/css" />
+     	<script type="text/javascript" src="Scripts/jquery-1.9.1.min.js"></script>
+        <script type="text/javascript" src="Scripts/Crowd.js"></script>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div id="cd_top">
+			<div id="cd_logo"></div>
+			<div id="topnav">
+				<div id="fourbutton">
+                <div class="crt"><a id="duoduo" href="">退出</a></div>
+					<div class="crt"><a id="muban" href="">设置</a></div>
+					<div class="crt"><a id="liulan" href="">好友</a></div>
+					<div class="crt"><a id="shouye" href="#">首页</a></div>
+                    		
+				</div>
+				<div id="serch">
+					
+						<div id="bigger"></div>
+						<input type="text" id="find"></input>
+					
+
+				</div>
+			</div>
+		</div>
+
+    <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>
