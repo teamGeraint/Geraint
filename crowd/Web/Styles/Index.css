@@ -5,22 +5,24 @@ body{text-align: center;}
 a{text-decoration: none;}
 
 #wapper{width: 100%;height: 100%;}
-#header{width: 100%;height: 15%;position: relative;background-color: #b3d8f4;}
-#headerpic{display: block;width: 60px;height: 60px;position: absolute;left: 200px;top: 10px;}
-#headerpicmain{width: 60px;height: 60px;}
-#headertext{width: 500px;height: 60px;position: absolute;left:440px;top: 15px;font-family: 宋体;font-size: 28px;font-weight: 700;line-height: 50px;color: #7e9ec0;}
+#header{width: 1000px;height: 10%;margin: 0 auto;}
+#headerpic{display: block;width: 60px;height: 60px;float: left;}
+#headerpicmain{width: 60px;height: 60px;float: left;}
+#headertext{width: 880px;height: 60px;font-family: 宋体;font-size: 28px;font-weight: 700;line-height: 50px;color: #7e9ec0;float: left;}
 
 
 #content{width: 100%;height:85%;position: relative; }
-#loginBlock{width: 295px;height: 300px;padding: 13px 14px 15px 14px; position: absolute;left: 500px; top: 65px;background-image: url("../images/index/btn.png");}
-#loginBlock1{width: 295px;height: 392px;padding: 13px 14px 15px 14px;position: absolute;left: 500px; top: 65px;background-image: url("../images/index/btn.png");background-position: -323px 0;display: none;}
+#loginBlock{width: 300px;height: auto; margin: 100px auto;box-shadow: 0 0 3px rgba(0,0,0,0.4);padding: 0 0 12px 0;}
 
-.loginFunc{width: 295px;height: 47px;}
-.login{width: 147px;height: 47px;font-family:verdana ;font-size:14px;cursor: pointer;text-align: center;float: left;color: #626262;line-height: 46px;}
-.register{width: 147px;height: 47px;font-family:verdana ;font-size:14px;cursor: pointer;text-align: center;float: left;color: #626262;line-height: 46px;}
-.loginForm{width: 295px;height:200px;padding: 40px 0 0 0;position:relative;}
-.loginCrowd{width: 295px;height: 225px;}
-.idInputLine{width: 245px;height: 42px;margin:0 0 20px 25px;position: relative;background-image: url("../images/index/loginblock.jpg"); background-position:0 -352px;}
+.loginFunc{width: 300px;height: 47px;}
+#login{width: 150px;height: 47px;font-family:verdana ;font-size:14px;cursor: pointer;text-align: center;float: left;color: #626262;line-height: 46px;}
+#register{width: 150px;height: 47px;font-family:verdana ;font-size:14px;cursor: pointer;text-align: center;float: left;color: #626262;line-height: 46px;}
+.sel{background-color:#eee; }
+
+
+.loginForm{width: 300px;height:110px;padding: 30px 0 0 0;position:relative;overflow: hidden;}
+.loginCrowd{width: 300px;height: 225px;position: relative;}
+.InputLine{width: 245px;height: 42px;margin:0 0 20px 25px;position: relative;background-image: url("../images/index/loginblock.jpg"); background-position:0 -352px;}
 .idPic{display: block; width: 14px;height: 16px; background-image: url("../images/index/loginblock.jpg");background-position: -154px -64px;float: left;position: absolute;top: 12px;left: 5px;}
 .idInput{ display: block; width: 205px;height: 19px;padding: 9px 0 10px 0;margin:2px 0 0 25px; font-size: 14px;font-family: verdana;line-height: 17px;float: left;border:0px ;border-radius: 5px;background-image: url("../images/index/zhanghao.jpg");background-repeat: no-repeat;}
 #idInput1{display: block; width: 205px;height: 19px;padding: 9px 0 10px 0;margin:2px 0 0 25px; font-size: 14px;font-family: verdana;line-height: 17px;float: left;border:0px ;border-radius: 5px;background-image: url("../images/index/youxiang.jpg");background-repeat: no-repeat;}
@@ -35,3 +37,7 @@ a{text-decoration: none;}
 .regtip{color:#ccc;font-size:12px;display:block;float:left;height:42px;width:60px;}
 
 #loginError{color:#f00;}
+#btnreg{display: none;}
+.errortip{position: absolute;left: 150px;top: 12px;color: #f00;font-size: 14px;display: block;width: 100px;height: 20px;font-size: 12px;}
+#regid{position: absolute;left: 0;top: 0;display: none;}
+

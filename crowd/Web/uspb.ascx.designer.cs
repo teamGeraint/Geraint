@@ -7,81 +7,90 @@
 // </自动生成>
 //------------------------------------------------------------------------------
 
-namespace Crowd.web {
+namespace Crowd.Web {
     
     
-    public partial class UserCenter {
+    public partial class uspb {
         
         /// <summary>
-        /// userhead 控件。
+        /// fdhead 控件。
         /// </summary>
         /// <remarks>
         /// 自动生成的字段。
         /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
         /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlGenericControl userhead;
+        protected global::System.Web.UI.WebControls.Image fdhead;
         
         /// <summary>
-        /// pholder 控件。
+        /// fdnamea 控件。
         /// </summary>
         /// <remarks>
         /// 自动生成的字段。
         /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
         /// </remarks>
-        protected global::System.Web.UI.WebControls.PlaceHolder pholder;
+        protected global::System.Web.UI.HtmlControls.HtmlAnchor fdnamea;
         
         /// <summary>
-        /// imguserhead 控件。
+        /// txtfdname 控件。
         /// </summary>
         /// <remarks>
         /// 自动生成的字段。
         /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Image imguserhead;
+        protected global::System.Web.UI.WebControls.Label txtfdname;
         
         /// <summary>
-        /// txtusername 控件。
+        /// imgcnt 控件。
         /// </summary>
         /// <remarks>
         /// 自动生成的字段。
         /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label txtusername;
+        protected global::System.Web.UI.WebControls.Image imgcnt;
         
         /// <summary>
-        /// txtuserdesc 控件。
+        /// txtcnt 控件。
         /// </summary>
         /// <remarks>
         /// 自动生成的字段。
         /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label txtuserdesc;
+        protected global::System.Web.UI.WebControls.Label txtcnt;
         
         /// <summary>
-        /// txtguanzhu 控件。
+        /// txtzan 控件。
         /// </summary>
         /// <remarks>
         /// 自动生成的字段。
         /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label txtguanzhu;
+        protected global::System.Web.UI.WebControls.Label txtzan;
         
         /// <summary>
-        /// txtfans 控件。
+        /// txtpl 控件。
         /// </summary>
         /// <remarks>
         /// 自动生成的字段。
         /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label txtfans;
+        protected global::System.Web.UI.WebControls.Label txtpl;
         
         /// <summary>
-        /// txtpublsh 控件。
+        /// txtzhf 控件。
         /// </summary>
         /// <remarks>
         /// 自动生成的字段。
         /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label txtpublsh;
+        protected global::System.Web.UI.WebControls.Label txtzhf;
+        
+        /// <summary>
+        /// imgshc 控件。
+        /// </summary>
+        /// <remarks>
+        /// 自动生成的字段。
+        /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Image imgshc;
     }
 }

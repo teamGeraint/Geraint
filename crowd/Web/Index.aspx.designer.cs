@@ -31,22 +31,13 @@ namespace Crowd.web {
         protected global::System.Web.UI.HtmlControls.HtmlInputText loginidInput1;
         
         /// <summary>
-        /// loginpwdInput1 控件。
+        /// tipid 控件。
         /// </summary>
         /// <remarks>
         /// 自动生成的字段。
         /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
         /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlInputText loginpwdInput1;
-        
-        /// <summary>
-        /// loginError 控件。
-        /// </summary>
-        /// <remarks>
-        /// 自动生成的字段。
-        /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Label loginError;
+        protected global::System.Web.UI.WebControls.Label tipid;
         
         /// <summary>
         /// regidInput 控件。
@@ -58,13 +49,31 @@ namespace Crowd.web {
         protected global::System.Web.UI.HtmlControls.HtmlInputText regidInput;
         
         /// <summary>
-        /// regpwdInput 控件。
+        /// tipregid 控件。
         /// </summary>
         /// <remarks>
         /// 自动生成的字段。
         /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
         /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlInputText regpwdInput;
+        protected global::System.Web.UI.WebControls.Label tipregid;
+        
+        /// <summary>
+        /// loginpwdInput1 控件。
+        /// </summary>
+        /// <remarks>
+        /// 自动生成的字段。
+        /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlInputText loginpwdInput1;
+        
+        /// <summary>
+        /// tippwd 控件。
+        /// </summary>
+        /// <remarks>
+        /// 自动生成的字段。
+        /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label tippwd;
         
         /// <summary>
         /// regpwdInput2 控件。
@@ -76,6 +85,15 @@ namespace Crowd.web {
         protected global::System.Web.UI.HtmlControls.HtmlInputText regpwdInput2;
         
         /// <summary>
+        /// tippwd2 控件。
+        /// </summary>
+        /// <remarks>
+        /// 自动生成的字段。
+        /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label tippwd2;
+        
+        /// <summary>
         /// regemailInput 控件。
         /// </summary>
         /// <remarks>
@@ -83,6 +101,24 @@ namespace Crowd.web {
         /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
         /// </remarks>
         protected global::System.Web.UI.HtmlControls.HtmlInputText regemailInput;
+        
+        /// <summary>
+        /// tipemail 控件。
+        /// </summary>
+        /// <remarks>
+        /// 自动生成的字段。
+        /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label tipemail;
+        
+        /// <summary>
+        /// btnlogin 控件。
+        /// </summary>
+        /// <remarks>
+        /// 自动生成的字段。
+        /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button btnlogin;
         
         /// <summary>
         /// btnreg 控件。

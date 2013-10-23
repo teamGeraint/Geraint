@@ -18,7 +18,7 @@
 			<div id="cd_logo"></div>
 			<div id="topnav">
 				<div id="fourbutton">
-                <div class="crt"><a id="duoduo" href="">退出</a></div>
+                <div class="crt"><a id="duoduo" href="Index.aspx">退出</a></div>
 					<div class="crt"><a id="muban" href="">设置</a></div>
 					<div class="crt"><a id="liulan" href="">好友</a></div>
 					<div class="crt"><a id="shouye" href="#">首页</a></div>

@@ -118,13 +118,17 @@
     <Content Include="Styles\UserHome.css" />
     <Content Include="Styles\UserInfo.css" />
     <Content Include="Styles\UserPhoto.css" />
+    <Content Include="Styles\uspb.css" />
     <Content Include="UserCenter.aspx" />
     <Content Include="UserHome.aspx" />
     <Content Include="UserInfo.aspx" />
     <Content Include="UserPhoto.aspx" />
+    <Content Include="uspb.ascx" />
     <Content Include="Web.config">
       <SubType>Designer</SubType>
     </Content>
+    <Content Include="WebUserControl.ascx" />
+    <Content Include="ws\mydb.asmx" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Admin.aspx.cs">
@@ -208,6 +212,24 @@
     </Compile>
     <Compile Include="UserPhoto.aspx.designer.cs">
       <DependentUpon>UserPhoto.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="uspb.ascx.cs">
+      <DependentUpon>uspb.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="uspb.ascx.designer.cs">
+      <DependentUpon>uspb.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="WebUserControl.ascx.cs">
+      <DependentUpon>WebUserControl.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WebUserControl.ascx.designer.cs">
+      <DependentUpon>WebUserControl.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="ws\mydb.asmx.cs">
+      <DependentUpon>mydb.asmx</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
   </ItemGroup>
   <ItemGroup>

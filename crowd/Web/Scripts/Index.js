@@ -5,13 +5,22 @@
 });
 
 function initEleEvents() {
-    $(".login").click(function () {
-        $("#loginBlock1").hide();
-        $("#loginBlock").show();
+    $("#login").click(function () {
+        $(".loginFunc div").addClass("sel");
+        $(this).removeClass("sel");
+        $("#btnreg").hide();
+        $("#regid").hide();
+        $(".errortip").text("");
+        $(".loginForm").animate({"height":"110px"},500)
+       
     })
-    $(".register").click(function () {
-        $("#loginBlock").hide();
-        $("#loginBlock1").show();
+    $("#register").click(function () {
+        $(".loginFunc div").addClass("sel");
+        $(this).removeClass("sel");
+        $("#btnreg").show();
+        $("#regid").show();
+        $(".errortip").text("");
+        $(".loginForm").animate({"height":"230px"},500)
     })
     $(".pwdInputLine input").keydown(function () {
         $(this).css("background-image", "none");
@@ -60,6 +69,36 @@ function initEleEvents() {
         else { $(this).css("background-image", "none"); };
 
     });
+
+    $("#regidInput").blur(function () {
+            $.ajax({
+                url: "ws/mydb.asmx/selectUserID",
+                type: "POST",
+                contentType: "application/json",
+                data: "{uid:" + $("#regidInput").val() + "}",
+                dataType: "json",
+                success: function (res) {
+                    $("#tipregid").text(res.d);
+                    
+
+                }
+
+            });
+
+        });
+
+    $(".loginCrowd input").blur(function(){
+        $(this).next().text("");
+        
+
+
+
+    })
+
+
+
+
+
 }
 
 function checktext() {
@@ -71,4 +110,5 @@ function checktext() {
     $("#regemailInput").css("background-image", 'url("../images/Index/youxiang.jpg")');
     $(".pwdInput").css("background-image", 'url("../images/Index/mima.jpg")');
     $("#regpwdInput2").css("background-image", 'url("../images/Index/querenmima.jpg")');
+    //$(".errortip").text("");
 }
