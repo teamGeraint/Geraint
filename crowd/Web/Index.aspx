@@ -65,17 +65,106 @@
                                   <input id="regemailInput"  type="text" runat="server"/>
                                   <asp:Label ID="tipemail" class="errortip" Text="" runat="server" />
                                </div>
-                               
-                               
-                               
+
                            </div>
                            
                    </div>
                    <div class="loginFormbtn">
                         <asp:Button ID="btnlogin" class="loginbtn" Text="登 录" runat="server" onclick="loginbtn_Click" />
-                        <asp:Button ID="btnreg" class="loginbtn" Text="注 册" runat="server" onclick="regbtn_Click" />
+                       <input type="button" id="btnnext" class="loginbtn" name="name" value="下一步" />
                    </div>   
            </div>
+           <div id="mainb">
+			<div id="mpadding">
+				<div id="mbh1"><a id="mbha" href="#">基本资料</a></div>
+				<div id="userhead">
+					<img id="headimg" src="../images/userInfo/1.jpg" style="width:80px;height:80px;"/>
+					<div class="uh2">
+						<a id="lblname"  class="lbl" href="#">昵称: </a>
+						
+                        <asp:TextBox ID="txtname" class="inp" runat="server" text="" ></asp:TextBox>
+
+					</div>
+					<div class="uh2">
+					<a class="example" href="#">事例：沾血的小黄瓜</a>
+                        
+					</div>
+				</div>
+
+				<div class="divc">
+					<a id="lblsex" class="lbl" href="#">性别:</a>
+					<input id="txtsex" class="inp" type="text"></input>
+					<div class="uh1">
+						<a class="example" href="#">事例：男</a> 
+					</div>
+				
+				</div>
+				<div class="divc">
+					<a id="lblbir" class="lbl" href="#">生日:</a>
+					<input id="txtbir" class="inp" type="text"></input>
+					<div class="uh1">
+							<a class="example" href="#">事例：1991-01-01</a>  
+					</div>
+				
+				</div>
+				<div class="divc">
+					<a id="lblgschool" class="lbl" href="#">高中:</a>
+					<input id="txgschool" class="inp" type="text"></input>
+						<div class="uh1">
+							<a class="example" href="#">事例：启中学动</a> 
+						</div>
+					
+				</div>
+				<div class="divc">
+					<a id="lbldschool" class="lbl" href="#">大学:</a>
+					<input id="txtdschool" class="inp" type="text"></input>
+					<div class="uh1">
+						<a class="example" href="#">事例：清华大学</a> 
+					</div>
+					
+				</div>
+				<div class="divc">
+					<a id="lbldes" class="lbl" href="#">个人说明:</a>
+					<input id="txtdes" class="inp" type="text"></input>
+					<div class="uh1">
+						<a class="example" href="#">事例：这个人很懒，什么都没留下</a> 
+					</div>
+					
+				</div>
+
+				<div class="divc">
+					<a id="lblloc" class="lbl" href="#">所在地:</a>
+					<input id="txtloc" class="inp" type="text"></input>
+					<div class="uh1">
+						<a class="example" href="#">事例：苏州</a> 
+					</div>
+					
+				</div>
+
+				<div class="divc">
+					<a id="lblpro" class="lbl" href="#">职业:</a>
+					<input id="txtpro" class="inp" type="text"></input>
+					<div class="uh1">
+						<a class="example" href="#">事例：程序员</a> 
+					</div>
+					
+				</div>
+
+				<div class="divc">
+                    <asp:Button ID="btnsave" class="btns" Text="注 册" runat="server" 
+                                        />
+
+                    <asp:Button ID="btnnotsav" class="btns" Text="取 消" runat="server" 
+                                        />
+					
+				</div>
+				
+			</div>
+		</div>
+
+
+
+
          <%--  <div id="loginBlock1">
                    <div class="loginFunc">
                        <div class="login">登录</div>

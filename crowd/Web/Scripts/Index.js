@@ -9,7 +9,7 @@ function initEleEvents() {
         $(".loginFunc div").addClass("sel");
         $(this).removeClass("sel");
         $("#btnreg").hide();
-        $("#regid").hide();
+        $("#btnnext").hide();
         $(".errortip").text("");
         $(".loginForm").animate({"height":"110px"},500)
        
@@ -18,7 +18,7 @@ function initEleEvents() {
         $(".loginFunc div").addClass("sel");
         $(this).removeClass("sel");
         $("#btnreg").show();
-        $("#regid").show();
+        $("#btnnext").show();
         $(".errortip").text("");
         $(".loginForm").animate({"height":"230px"},500)
     })
@@ -94,7 +94,11 @@ function initEleEvents() {
 
 
     })
+    $("#btnnext").click(function(){
+        $("#mainb").show();
 
+
+    });
 
 
 

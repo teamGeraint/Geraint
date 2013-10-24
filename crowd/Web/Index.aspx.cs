@@ -67,38 +67,47 @@ namespace Crowd.web
 
         }
 
-        protected void regbtn_Click(object sender, EventArgs e)
+        protected void nextbtn_Click(object sender, EventArgs e)
         {
-            userID = loginidInput1.Value;
-            userPwd = loginpwdInput1.Value;
-            userPwd2 = regpwdInput2.Value;
-            useremail = regemailInput.Value;
-
-            if (userID == "")
-            {
-                tipregid.Text = "请输入用户名";
-                return;
-            }
-            if (userPwd == "")
-            {
-                tippwd.Text = "请输入密码";
-                return;
-            }
-            if (userPwd2 == "")
-            {
-                tippwd2.Text = "请输入重复密码";
-                return;
-            }
-            if (useremail=="")
-            {
-                tipemail.Text = "请输入邮箱";
-                return;
-            }
-            
-
-
 
         }
+
+        //protected void nextbtn_Click(object sender, EventArgs e)
+        //{
+        //    userID = loginidInput1.Value;
+        //    userPwd = loginpwdInput1.Value;
+        //    userPwd2 = regpwdInput2.Value;
+        //    useremail = regemailInput.Value;
+
+        //    if (userID == "")
+        //    {
+        //        tipregid.Text = "请输入用户名";
+        //        return;
+        //    }
+        //    if (userPwd == "")
+        //    {
+        //        tippwd.Text = "请输入密码";
+        //        return;
+        //    }
+        //    if (userPwd2 == "")
+        //    {
+        //        tippwd2.Text = "请输入重复密码";
+        //        return;
+        //    }
+        //    if (useremail=="")
+        //    {
+        //        tipemail.Text = "请输入邮箱";
+        //        return;
+        //    }
+        //    if (tippwd.Text!=tippwd2.Text)
+        //    {
+        //        tippwd2.Text = "两次密码不一致";
+        //        return;
+        //    }
+
+
+
+        //}
 
 
     }
